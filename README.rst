@@ -8,7 +8,7 @@ Multi-Agent Communication
   :target: LICENSE
   :alt: License
 
-.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2F8frxm-blue
+.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fwec8m-blue
   :target: CITATION.cff
   :alt: DOI
 
@@ -53,7 +53,7 @@ Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the pro
 Component DOI
 ^^^^^^^^^^^^^
 
-**Project identifier:** https://doi.org/10.17605/OSF.IO/8FRXM
+**Project identifier:** https://doi.org/10.17605/OSF.IO/WEC8M
 
 Component dependencies
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -93,7 +93,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
       journal = {OSF Preprints},
       title = {Multi-Agent Communication},
       year = {2022},
-      doi = {10.17605/osf.io/8frxm},
+      doi = {10.17605/osf.io/wec8m},
       license = {Creative Commons Zero CC0 1.0}
     }
 
