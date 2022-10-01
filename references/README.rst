@@ -16,6 +16,9 @@ References
 Communication among agents in Deep RL
 -------------------------------------
 
+**2004**
+
+- `Communication Complexity of Multi-Robot Systems <http://www.cds.caltech.edu/~murray/projects/darpa98-sec/kla02-wafr.pdf>`_
 
 
 Inter-Agent Transfer Learning in RL
