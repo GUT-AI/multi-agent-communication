@@ -33,6 +33,10 @@ Communication among agents in Deep RL
 - `Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks <https://arxiv.org/pdf/1812.09755.pdf>`_
 - `TarMAC: Targeted Multi-Agent Communication <https://arxiv.org/pdf/1810.11187.pdf>`_
 
+**2020**
+
+- `Emergent Multi-Agent Communication in the Deep Learning Era <https://arxiv.org/pdf/2006.02419.pdf>`_
+
 Inter-Agent Transfer Learning in RL
 -----------------------------------
 
