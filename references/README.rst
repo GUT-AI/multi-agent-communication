@@ -13,8 +13,8 @@ References
 
 |
 
-Emergent communication among agents in Deep RL
-----------------------------------------------
+Communication among agents in Deep RL
+-------------------------------------
 
 **2004**
 
@@ -38,9 +38,19 @@ Emergent communication among agents in Deep RL
 - `Emergent Multi-Agent Communication in the Deep Learning Era <https://arxiv.org/pdf/2006.02419.pdf>`_
 - `Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning <http://aclanthology.lst.uni-saarland.de/2020.acl-main.685.pdf>`_
 
+
+Interpretation of emergent communication
+----------------------------------------
+
 **2021**
 
 - `Interpretable agent communication from scratch (with a generic visual processor emerging on the side) <https://arxiv.org/pdf/2106.04258.pdf>`_
+- `Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents <https://arxiv.org/pdf/2110.05769.pdf>`_
+
+Grounded Question Answering
+---------------------------
+
+See `Ground QA <https://github.com/GUT-AI/grounded-qa/blob/master/references/README.rst>`_.
 
 Inter-Agent Transfer Learning in RL
 -----------------------------------
@@ -53,7 +63,3 @@ Inter-Agent Transfer Learning in RL
 
 - `A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems <https://jair.org/index.php/jair/article/view/11396>`_
 
-Grounded Question Answering
----------------------------
-
-See `Ground QA <https://github.com/GUT-AI/grounded-qa/blob/master/references/README.rst>`_.
