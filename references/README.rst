@@ -39,7 +39,7 @@ Communication among agents in Deep RL
 - `Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning <http://aclanthology.lst.uni-saarland.de/2020.acl-main.685.pdf>`_
 
 
-Interpretation of emergent communication (among heterogenous or homogeneous agents)
+Interpretation of emergent communication (among heterogeneous or homogeneous agents)
 -----------------------------------------------------------------------------------
 
 **2021**
@@ -50,6 +50,7 @@ Interpretation of emergent communication (among heterogenous or homogeneous agen
 **2022**
 
 - `Disentangling Categorization in Multi-agent Emergent Communication <https://aclanthology.org/2022.naacl-main.335.pdf>`_
+- `Multi-Agent Incentive Communication via Decentralized Teammate Modeling <https://www.aaai.org/AAAI22Papers/AAAI-5737.YuanL.pdf>`_
 
 Grounded Question Answering
 ---------------------------
