@@ -37,7 +37,7 @@ Communication among agents in Deep RL
 
 - `Emergent Multi-Agent Communication in the Deep Learning Era <https://arxiv.org/pdf/2006.02419.pdf>`_
 - `Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning <http://aclanthology.lst.uni-saarland.de/2020.acl-main.685.pdf>`_
-
+- `Learning Efficient Multi-agent Communication: An Information Bottleneck Approach <http://proceedings.mlr.press/v119/wang20i/wang20i.pdf>`_
 
 Interpretation of emergent communication (among heterogeneous or homogeneous agents)
 -----------------------------------------------------------------------------------
