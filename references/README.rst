@@ -40,6 +40,10 @@ Communication among agents in Deep RL
 - `Learning Efficient Multi-agent Communication: An Information Bottleneck Approach <http://proceedings.mlr.press/v119/wang20i/wang20i.pdf>`_
 - `Learning Individually Inferred Communication for Multi-Agent Cooperation <https://proceedings.neurips.cc/paper/2020/file/fb2fcd534b0ff3bbed73cc51df620323-Paper.pdf>`_
 
+**2021**
+
+- `Learning Selective Communication for Multi-Agent Path Finding <https://arxiv.org/pdf/2109.05413.pdf>
+
 Interpretation of emergent communication (among heterogeneous or homogeneous agents)
 ------------------------------------------------------------------------------------
 
