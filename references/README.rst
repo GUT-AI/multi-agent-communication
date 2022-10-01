@@ -36,6 +36,7 @@ Communication among agents in Deep RL
 **2020**
 
 - `Emergent Multi-Agent Communication in the Deep Learning Era <https://arxiv.org/pdf/2006.02419.pdf>`_
+- `Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning <http://aclanthology.lst.uni-saarland.de/2020.acl-main.685.pdf>`_
 
 Inter-Agent Transfer Learning in RL
 -----------------------------------
