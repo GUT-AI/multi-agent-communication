@@ -42,7 +42,7 @@ Communication among agents in Deep RL
 
 **2021**
 
-- `Learning Selective Communication for Multi-Agent Path Finding <https://arxiv.org/pdf/2109.05413.pdf>
+- `Learning Selective Communication for Multi-Agent Path Finding <https://arxiv.org/pdf/2109.05413.pdf>`_
 
 Interpretation of emergent communication (among heterogeneous or homogeneous agents)
 ------------------------------------------------------------------------------------
