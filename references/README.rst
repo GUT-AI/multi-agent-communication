@@ -20,6 +20,18 @@ Communication among agents in Deep RL
 
 - `Communication Complexity of Multi-Robot Systems <http://www.cds.caltech.edu/~murray/projects/darpa98-sec/kla02-wafr.pdf>`_
 
+**2016**
+
+- `Communicate with Deep Multi-Agent Reinforcement Learning <https://arxiv.org/pdf/1605.06676.pdf>`_
+
+**2018**
+
+- `Learning Attentional Communication for Multi-Agent Cooperation <https://arxiv.org/pdf/1805.07733.pdf>`_
+
+**2019**
+
+- `Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks <https://arxiv.org/pdf/1812.09755.pdf>`_
+- `TarMAC: Targeted Multi-Agent Communication <https://arxiv.org/pdf/1810.11187.pdf>`_
 
 Inter-Agent Transfer Learning in RL
 -----------------------------------
